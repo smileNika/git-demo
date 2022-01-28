@@ -1,3 +1,10 @@
+git add
+git push
 My song my song....first statement
+
+git pull / git merge
 line 3 from hub
 line 4 from hub
+
+Working with GUI GIT 
+git gui&
