@@ -8,3 +8,4 @@ line 4 from hub
 
 Working with GUI GIT 
 git gui&
+some check
